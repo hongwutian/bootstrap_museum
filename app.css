@@ -36,6 +36,10 @@ body {
     font-size: 1.5rem;
     font-weight: 100;
 }
+.navbar.scrolled {
+    color: rgb(222, 219n, 222);
+    transition: background 200ms;
+}
 #headingQuote span {
     color:red;
 }
